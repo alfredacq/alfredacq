@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm <a href="https://www.linkedin.com/in/alfredacquah/">Alfred Acquah</a> 👋 <br/> Passionate about Threat Detection, Vulnerability Management, & Security Governance.
 
-<!--
-**alfredacq/alfredacq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT and Cybersecurity Analyst who loves tackling real-world security challenges through hands-on projects — from vulnerability management to threat detection. These projects showcase the work I've done to strengthen security operations and processes.
+- **Threat Detection, Threat Hunting, Vulnerability Management, and Incident Response**
+- **SIEM, EDR, and Cloud Security Platforms** (Microsoft Defender for Endpoint, Microsoft Sentinel, Azure Log Analytics)
+- **Enterprise Vulnerability Management** including Tenable onboarding, remediation workflows, risk prioritization, and audit support
+- **Threat Detection** using KQL
+- **Risk Management** governance, security risk assessments, and NIST RMF alignment
+- **PowerShell and KQL Scripting** for investigations, automation, and remediation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+---
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+---
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfred%20Acquah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfredacquah/)
+[![GitHub](https://img.shields.io/badge/GitHub-alfredacq-black?style=for-the-badge&logo=github)](https://github.com/alfredacq)
+[![Gmail](https://img.shields.io/badge/Gmail-alfred.pka1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfred.pka1@gmail.com)
+
+---
