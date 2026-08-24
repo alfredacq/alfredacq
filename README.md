@@ -19,7 +19,7 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
 
 ---
 
