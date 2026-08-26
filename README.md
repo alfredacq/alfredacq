@@ -6,7 +6,7 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 - **Enterprise Vulnerability Management** including Tenable onboarding, remediation workflows, risk prioritization, and audit support
 - **Threat Detection** using KQL
 - **Risk Management** governance, security risk assessments, and NIST RMF alignment
-- **PowerShell and KQL Scripting** for investigations, automation, and remediation
+- **KQL Scripting** for investigations, automation, and remediation
 
 ---
 
