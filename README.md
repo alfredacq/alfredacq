@@ -21,6 +21,5 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfred%20Acquah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfredacquah/)
 [![GitHub](https://img.shields.io/badge/GitHub-alfredacq-black?style=for-the-badge&logo=github)](https://github.com/alfredacq)
-[![Gmail](https://img.shields.io/badge/Gmail-alfred.pka1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfred.pka1@gmail.com)
 
 ---
