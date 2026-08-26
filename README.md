@@ -10,16 +10,10 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 
 ---
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
----
-
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
+- **🍯[Threat Hunting: MySQL Ransom & Data Destruction](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
+<br/>Built and exposed a monitored honeypot to observe real-world attacker behavior. Used Microsoft Defender for Endpoint, Microsoft Sentinel, and KQL to trace an exposed database account back to its root cause, reconstruct the attacker's actions across MySQL audit logs and endpoint telemetry, correlate IOCs across data sources, and document full incident containment and recovery.
 
 ---
 
