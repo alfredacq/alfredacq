@@ -15,6 +15,9 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 - **🍯[MySQL Ransom & Data Destruction](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
 <br/>Built and exposed a monitored honeypot to observe real-world attacker behavior. Used Microsoft Defender for Endpoint, Microsoft Sentinel, and KQL to trace an exposed database account back to its root cause, reconstruct the attacker's actions across MySQL audit logs and endpoint telemetry, correlate IOCs across data sources, and document full incident containment and recovery.
 
+- **🔐[Azure Brute-Force Incident Detection Report](https://github.com/alfredacq/Azure-Brute-Force-Incident-Report)**
+<br/>End-to-end detection and incident response for a distributed brute-force attack against an Azure VM fleet, investigated in Microsoft Sentinel. Includes custom KQL detection logic, root-cause analysis, MITRE ATT&CK mapping, and a risk-based closure report with control-gap findings and remediation tracking, aligned to NIST SP 800-61.
+
 ---
 
 ## 🌐 Let's Connect!
