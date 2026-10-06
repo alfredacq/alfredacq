@@ -10,6 +10,13 @@ I'm an IT and Cybersecurity Analyst who loves tackling real-world security chall
 
 ---
 
+## 🚨 Vulnerability Management Projects
+
+- **🛡️[Vulnerability Management Program Implementation](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
+<br/>Built a vulnerability management program from the ground up using Tenable, Azure VMs, PowerShell, and Bash. Developed policy, conducted authenticated scans, prioritized findings, coordinated remediation through CAB, and reduced vulnerabilities by 88%, eliminating all Critical and High findings.
+
+---
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **🍯[MySQL Ransom & Data Destruction](https://github.com/alfredacq/Incident-Report-MySQL-Ransom-Data-Destruction)**
