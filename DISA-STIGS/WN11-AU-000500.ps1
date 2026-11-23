@@ -26,7 +26,7 @@
     PS C:\> .\(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# THE CODE USED
+## THE CODE USED ##
 # Configure Application Event Log Maximum Size
 
 $RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
